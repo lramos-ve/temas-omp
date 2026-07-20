@@ -23,7 +23,9 @@
                     "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}}",
                     "properties": {
                         "windows": "\ue62a ",
-                        "ubuntu": "\uf31b "
+                        "debian": "\uf306 ",
+                        "ubuntu": "\uf31b ",
+                        "arch": "\uf303 "
                     }
                 },
                 {
